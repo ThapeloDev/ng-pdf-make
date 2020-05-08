@@ -4,8 +4,8 @@
   "license": "MIT",
   "angular-cli": {},
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/BennyFranco/ng-pdf-make.git"
+    "type": "git",
+    "url": "https://github.com/BennyFranco/ng-pdf-make.git"
   },
   "scripts": {
     "ng": "ng",
@@ -30,7 +30,8 @@
     "@types/pdfmake": "0.1.1",
     "core-js": "^2.4.1",
     "pdfmake": "^0.1.27",
-    "rxjs": "^5.0.1",
+    "rxjs": "^6.5.4",
+    "rxjs-compat": "^6.0.0-rc.0",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.7.2"
   },
